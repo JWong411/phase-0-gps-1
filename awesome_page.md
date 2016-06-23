@@ -1,5 +1,5 @@
 # How awesome is this page?
-
+    * resolved conflicting change
 *not very?*
 
 ```ruby
@@ -30,3 +30,4 @@ puts doors.each_with_index
 [Rosetta Code] (https://www.rosettacode.org/wiki/100_doors)
 ![Awesome Pic] (http://i.imgur.com/o2AeGAK.jpg)
 
+>>>>>>> small-conflict
